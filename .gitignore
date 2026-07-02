@@ -1,0 +1,22 @@
+# Office 临时文件
+~$*
+
+# 编译输出
+/build/
+/Debug/
+/Release/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE 生成文件
+.cproject
+.project
+.settings/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store

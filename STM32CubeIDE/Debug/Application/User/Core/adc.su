@@ -1,0 +1,4 @@
+E:/claude_work/Wireless_Charge_Full/Wireless_Charge_v1/Wireless_Charge/Core/Src/adc.c:26:6:MX_ADC1_Init	24	static
+E:/claude_work/Wireless_Charge_Full/Wireless_Charge_v1/Wireless_Charge/Core/Src/adc.c:58:6:HAL_ADC_MspInit	48	static
+E:/claude_work/Wireless_Charge_Full/Wireless_Charge_v1/Wireless_Charge/Core/Src/adc.c:80:6:HAL_ADC_MspDeInit	16	static
+E:/claude_work/Wireless_Charge_Full/Wireless_Charge_v1/Wireless_Charge/Core/Src/adc.c:100:10:ADC_ReadChannel	32	static
